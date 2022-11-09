@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+ }
+/* Edit Class KOtak */
+.kotak {
+    border: 3px solid black;
+    width: 150px;
+    height: 700px;
+}
+
+/* Edit Class Item 1 */
+.item-1 {
+    background-color: lightcoral;
+}
+.item-2 {
+    background-color: lightblue;
+}
+.item-3 {
+    background-color: lightgreen;
+}
+.item-4 {
+    background-color: lightyellow;
+}
